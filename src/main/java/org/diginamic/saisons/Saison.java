@@ -51,6 +51,7 @@ public enum Saison {
 			return HIVER;
 		}
 		
+		
 		throw new InvalidLibelleException();
 	}
 	
